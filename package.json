@@ -1,0 +1,24 @@
+{
+  "name": "dllr",
+  "version": "1.0.0",
+  "description": "Executes the command even if there is a '$' before the acctual command.",
+  "type": "module",
+  "bin": {
+    "$": "bin.js"
+  },
+  "scripts": {},
+  "keywords": [
+    "$",
+    "dllr",
+    "execute",
+    "exec",
+    "command",
+    "run"
+  ],
+  "author": {
+    "name": "Rajaneesh R",
+    "email": "rajaneeshr@proton.me",
+    "url": "https://r-rajaneesh.vercel.app"
+  },
+  "license": "LGPL-3"
+}
